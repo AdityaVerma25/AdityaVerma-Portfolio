@@ -3,7 +3,7 @@
 This is the personal portfolio website, showcasing projects, skills, and contact information. The site is built with a responsive and visually appealing design, highlighting frontend.
 
 ## Demo
-You can view a live demo of the portfolio [Visit]([https://yourportfolio.link](https://adityaverma25.github.io/AdityaVerma-Portfolio/)).
+You can view a live demo of the portfolio [Visit](https://adityaverma25.github.io/AdityaVerma-Portfolio/).
 
 ## Features
 - Responsive and mobile-first design.
