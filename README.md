@@ -1,6 +1,6 @@
 # Aditya Verma Portfolio
 
-This is the personal portfolio website of Aditya Verma, showcasing projects, skills, and contact information. The site is built with a responsive and visually appealing design, highlighting both frontend and backend development skills.
+This is the personal portfolio website, showcasing projects, skills, and contact information. The site is built with a responsive and visually appealing design, highlighting frontend.
 
 ## Demo
 You can view a live demo of the portfolio [here](https://yourportfolio.link).
